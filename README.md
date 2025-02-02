@@ -43,14 +43,14 @@ streanlit run app.py --server.port 8506
 For Software:
 
 # Screenshots (Add at least 3)
-(https://drive.google.com/file/d/14xB9d8RrWAaTIdud28ETIP63qsAQeR4M/view?usp=sharing)
+(https://drive.google.com/drive/folders/11hdLmEqKl4MXLosBrZd0CIGQ6QFpjh-1)
 
 # Build Photos
-(https://drive.google.com/file/d/14xB9d8RrWAaTIdud28ETIP63qsAQeR4M/view?usp=sharing)
+(https://drive.google.com/drive/folders/11hdLmEqKl4MXLosBrZd0CIGQ6QFpjh-1)
 
 ### Project Demo
 # Video
-[Watch Demo Video](https://drive.google.com/file/d/14xB9d8RrWAaTIdud28ETIP63qsAQeR4M/view?usp=sharing)
+[Watch Demo Video](https://drive.google.com/drive/folders/11hdLmEqKl4MXLosBrZd0CIGQ6QFpjh-1)
 *This video showcases the signup process, MBTI test, and how users find matches.*
 
 ## Team Contributions
