@@ -27,17 +27,17 @@ For Software:
 - Python
 - Sqlite3
 - Streamlit
-
-### Implementation
-For Software:
+  
 # Installation
 pip install streamlit
 pip install sqlite3
 
 
 # Run
-streamlit run login.py
-
+streamlit run login.py --server.port 8501
+streamlit run mbti.py --server.port 8508
+streamlit run details.py --server.port 8504
+streanlit run app.py --server.port 8506
 
 ### Project Documentation
 For Software:
